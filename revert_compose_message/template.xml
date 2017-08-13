@@ -3,7 +3,7 @@
     <data>
         <template id="assets_backend" name="mail assets reverted" inherit_id="web.assets_backend">
             <xpath expr="." position="inside">
-                <script type="text/javascript" src="/menubar_badge_number/static/src/js/badge.js"></script>
+                <script type="text/javascript" src="/revert_compose_message/static/src/js/mail.js"></script>
             </xpath>
         </template>
     </data>
